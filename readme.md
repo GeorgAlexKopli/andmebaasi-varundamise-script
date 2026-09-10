@@ -1,8 +1,6 @@
 # MySQL varundamine
 
-`backup.ps1` varundab kohaliku `rimi-database` andmed ja skeemi faili
-`rimi_georgalex.sql` ning saadab selle SFTP kaudu serverisse `172.18.24.8`,
-kausta `C:/Users/backups/databases`. Sama nimega eelmine varukoopia asendatakse.
+`backup.ps1` varundab kohaliku `rimi-database` andmed ja skeemi faili `rimi_georgalex.sql` ning saadab selle SFTP kaudu serverisse `172.18.24.8`, kausta `C:/Users/backups/databases`. Sama nimega eelmine varukoopia asendatakse.
 
 ## Seadistamine
 
